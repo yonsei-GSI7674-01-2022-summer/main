@@ -45,8 +45,10 @@
 
 
 [Lecture 1]: lecture/week-01
-
 [Assignment 1]: assignment/week-01/README.md
+
+[Lecture 2]: lecture/week-02
+[Assignment 2]: assignment/week-02/README.md
 
 [FAQ 1]: FAQ.md
 
@@ -56,6 +58,7 @@
 |                        Assignment                         | Date Assigned |   Due Date   | Tutorial | Point |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  토, 5월 21일  |  금, 5월 27일 |  | 10 |
+| [Assignment 2]                      |  토, 5월 28일  |  금, 6월 3일 |  | 10 |
 
 
 
