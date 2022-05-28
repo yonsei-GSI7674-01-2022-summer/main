@@ -21,7 +21,7 @@
     tmux new-session -s faceapp
     git pull
     . venv/bin/activate
-    pip install opencv-python
+    pip install opencv-python matplotlib
     sudo apt-get install ffmpeg libsm6 libxext6  -y
     cd assignment/week-02
     streamlit run app.py
