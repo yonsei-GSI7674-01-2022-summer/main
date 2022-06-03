@@ -31,7 +31,7 @@
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
 |  1 |  5월 21일                | 수업소개, 환경설정      | [Lecture 1] | [Assignment 1] | |
 |  2 |  5월 28일                | CV App Basic       | [Lecture 2] |  [Assignment 2] | |
-|  3 |  6월 4일                 | NLP App Basic      | [Lecture 3] | [Assignment 3] | |
+|  3 |  6월 4일                 | Search Engine Basic      | [Lecture 3] |  | |
 |  4 |  6월 11일                | RecSys App Basic   | [Lecture 4] | [Assignment 4] | |
 |  5 |  6월 18일                | TBD | [Lecture 5]  | [Assignment 5] | |
 |  6 |  6월 25일                | TBD | [Lecture 6]  | [Assignment 6] | |
