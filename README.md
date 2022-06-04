@@ -49,7 +49,7 @@
 
 [Lecture 2]: lecture/week-02
 [Assignment 2]: assignment/week-02/README.md
-
+[Lecture 3]: lecture/week-03
 [FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
