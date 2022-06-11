@@ -1,0 +1,16 @@
+sudo apt-get update && sudo apt-get install -y gnupg2
+wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
+sudo apt-get install apt-transport-https
+echo "deb https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elastic-7.x.list
+sudo apt-get update && sudo apt-get install elasticsearch
+sudo service elasticsearch start
+cd /usr/share/elasticsearch
+sudo bin/elasticsearch-plugin install analysis-nori
+sudo service elasticsearch restart
+sudo sed -i 's/#network.host: 192.168.0.1/network.host: 0.0.0.0/g' /etc/elasticsearch/elasticsearch.yml
+sudo sed -i 's/#http.port: 9200/http.port: 9000/g' /etc/elasticsearch/elasticsearch.yml
+sudo service elasticsearch restart
+sudo ulimit -n 65536 
+sudo echo "transport.host: localhost" >> /etc/elasticsearch/elasticsearch.yml
+sudo echo "discovery.type: single-node" >> /etc/elasticsearch/elasticsearch.yml
+sudo service elasticsearch restart
