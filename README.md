@@ -33,7 +33,7 @@
 |  2 |  5월 28일                | CV App Basic       | [Lecture 2] |  [Assignment 2] | |
 |  3 |  6월 4일                 | Search Engine Basic      | [Lecture 3] |  | |
 |  4 |  6월 11일                | Search Engine Advanced   | [Lecture 4] |  | |
-|  5 |  6월 18일                | Recommender System Basic | [Lecture 5]  | [Assignment 5] | |
+|  5 |  6월 18일                | Recommender System Basic | [Lecture 5]  | | |
 |  6 |  6월 25일                | TBD | [Lecture 6]  | [Assignment 6] | |
 |  7 |  7월 2일                 | TBD | [Lecture 7]  | [Assignment 7] | |
 |  8 |  7월 9일                 | TBD | [Lecture 8]  | [Assignment 8] | |
@@ -50,6 +50,8 @@
 [Lecture 2]: lecture/week-02
 [Assignment 2]: assignment/week-02/README.md
 [Lecture 3]: lecture/week-03
+[Lecture 4]: lecture/week-04
+[Lecture 5]: lecture/week-05
 [FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
