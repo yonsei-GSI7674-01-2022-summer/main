@@ -48,6 +48,8 @@
 [lecture 4]: lecture/week-04
 [lecture 5]: lecture/week-05
 [lecture 6]: lecture/week-06
+[lecture 7]: lecture/week-07
+[assignment 7]: assignment/week-07/README.md
 [faq 1]: FAQ.md
 
 ## Assignment Schedule
@@ -56,7 +58,7 @@
 | :------------: | :-----------: | :----------: | :------: | :---: |
 | [Assignment 1] | 토, 5월 21일  | 금, 5월 27일 |          |  10   |
 | [Assignment 2] | 토, 5월 28일  | 금, 6월 3일  |          |  10   |
-| [Assignment 2] |  토, 7월 2일  | 금, 7월 9일  |          |  10   |
+| [Assignment 7] |  토, 7월 2일  | 금, 7월 9일  |          |  10   |
 
 ## Class Assignments
 
