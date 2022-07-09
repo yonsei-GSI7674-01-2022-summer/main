@@ -36,9 +36,9 @@
 |   5   | 6월 18일 |       Recommender System Basic       | [Lecture 5]  |                 |     |
 |   6   | 6월 25일 | Image Classifier - Transfer Learning | [Lecture 6]  |                 |     |
 |   7   | 7월 2일  |                 OCR                  | [Lecture 7]  | [Assignment 7]  |     |
-|   8   | 7월 9일  |                 TBD                  | [Lecture 8]  | [Assignment 8]  |     |
-|   9   | 7월 16일 |                 TBD                  | [Lecture 9]  | [Assignment 9]  |     |
-|  10   | 7월 23일 |                 TBD                  | [Lecture 10] | [Assignment 10] |     |
+|   8   | 7월 9일  |                 NLP Part-1                  | [Lecture 8]  |   |     |
+|   9   | 7월 16일 |                 NLP Part-2                  | [Lecture 9]  |   |     |
+|  10   | 7월 23일 |                 ELK Stack                  | [Lecture 10] |  |     |
 
 [lecture 1]: lecture/week-01
 [assignment 1]: assignment/week-01/README.md
@@ -59,6 +59,8 @@
 | [Assignment 1] | 토, 5월 21일  | 금, 5월 27일 |          |  10   |
 | [Assignment 2] | 토, 5월 28일  | 금, 6월 3일  |          |  10   |
 | [Assignment 7] |  토, 7월 2일  | 금, 7월 9일  |          |  10   |
+
+
 
 ## Class Assignments
 

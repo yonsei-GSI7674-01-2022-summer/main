@@ -1,0 +1,6 @@
+sudo apt install openjdk-8-jdk -y
+
+#가상환경이 활성화된 상태에서
+pip install streamlit_chat
+pip install tensorflow
+pip install konlpy
