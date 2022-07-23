@@ -51,6 +51,7 @@
 [lecture 7]: lecture/week-07
 [lecture 8]: lecture/week-08
 [lecture 9]: lecture/week-09
+[lecture 10]: lecture/week-10
 [assignment 7]: assignment/week-07/README.md
 [faq 1]: FAQ.md
 
